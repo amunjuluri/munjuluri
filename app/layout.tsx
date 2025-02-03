@@ -32,12 +32,12 @@ export const metadata: Metadata = {
     follow: true,
   },
   viewport: "width=device-width, initial-scale=1",
-  themeColor: "#000000", // Changed to black for a more developer-centric theme
+  themeColor: "#000000", 
   authors: [{ name: "Anand Munjuluri" }],
   generator: "Next.js",
   applicationName: "Anand Munjuluri Portfolio",
   icons: {
-    icon: '/favicon.svg',  // Using SVG directly for better scaling
+    icon: '/favicon.svg',  
     apple: '/apple-touch-icon.png',
   },
 };
